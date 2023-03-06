@@ -265,7 +265,7 @@ p {
     }
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 480px) {
     #navbar-logo {
         font-size: 1.2rem;
     }
